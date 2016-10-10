@@ -1,1 +1,0 @@
-Scoutmanager-frontend AngularJS
